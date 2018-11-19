@@ -1,0 +1,2 @@
+# pritnf-function
+fonction printf
