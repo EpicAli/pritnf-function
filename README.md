@@ -1,2 +1,2 @@
 # pritnf-function
-fonction printf
+fonction printf a faire en 1ere anne a epitech
